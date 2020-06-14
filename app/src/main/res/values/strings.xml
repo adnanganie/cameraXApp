@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdharCardScanner</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="capture">Capture</string>
+</resources>
